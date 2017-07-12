@@ -19,4 +19,6 @@ To use this project locally, please follow the below steps:
 7. Run the command `bin/rails s`
 8. Open your browser, and visit `localhost:3000`
 
-** Note: this assumes you already have git installed. **
+**Note: this assumes you already have git installed.**
+
+## Functionality & Features

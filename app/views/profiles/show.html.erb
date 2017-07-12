@@ -1,7 +1,7 @@
 <div class="whitebox">
   <div><%= image_tag @user.image.url(:medium) %></div>
   <h1><%= @user.petname.capitalize %>'s Profile Page</h1>
-  <p><a href="#">Add your hometown</a> | <a href="#">Add your hobbies<a/> | <a href ="/users/edit">Add a profile picture<a/></p>
+  <p><a href ="/users/edit">Edit Profile<a/></p>
   <div class="friends_list">
     <h3>Friends you've added</h3>
     <% if @user.relationships.any? %>

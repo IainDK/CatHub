@@ -1,6 +1,6 @@
 ## CatHub
 
-CatHub is a group project that was built during my time at [Makers Academy](http://www.makersacademy.com/career-support/). It is designed to replicate the functionality of Facebook, but for a slightly different audience: cats!
+CatHub is a group project that was built during my time at [Makers Academy](http://www.makersacademy.com/career-support/). It is designed to replicate the functionality of Facebook, but for a slightly different audience: cats! It was built in 5 days by a team of 6.
 
 ## Technology Used
 

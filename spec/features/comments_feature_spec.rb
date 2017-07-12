@@ -1,7 +1,5 @@
 require 'rails_helper'
 
-
-
 feature 'comments' do
   before do
     sign_up

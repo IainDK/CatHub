@@ -46,17 +46,3 @@ feature "User can sign in and out" do
     end
   end
 end
-
-feature 'Profile' do
-  context 'Profile picture' do
-    scenario 'user can successfully upload a photo' do
-      sign_up
-      visit_profile
-      click_link "Add a profile picture"
-      attach_file('user_image', "spec/files/images/businesscat.jpg")
-      fill_in "user_current_password", with: "testtest"
-      click_button "Update"
-      expect(page).to have_text "Your account has been updated successfully."
-    end
-  end
-end

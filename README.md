@@ -26,3 +26,7 @@ To use this project locally, please follow the below steps:
 Users can sign-up and sign-in:
 
 ![sign-up](http://i.imgur.com/F82yitq.png "Sign Up Page")
+
+Once signed-in, users can create posts which can be reacted to in the form of a "Purr" or "Hiss". They can also see other registered users under "Cats in Da Hub", who can be added as friends.
+
+![creating-post](http://i.imgur.com/90eSgEq.png "Creating a Post")

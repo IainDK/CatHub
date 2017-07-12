@@ -25,4 +25,4 @@ To use this project locally, please follow the below steps:
 
 Users can sign-up and sign-in:
 
-![sign-up](http://imgur.com/a/o9Hzn "Sign Up Page")
+![sign-up](http://i.imgur.com/F82yitq.png "Sign Up Page")

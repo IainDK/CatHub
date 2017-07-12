@@ -1,23 +1,4 @@
 [![Stories in Ready](https://badge.waffle.io/crispinandrews/CatHub.png?label=ready&title=Ready)](https://waffle.io/crispinandrews/CatHub)
-# README
+# CatHub
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+CatHub is a group project that was built during my time at [Makers Academy](http://www.makersacademy.com/). It is designed to replicate the functionality of Facebook, but for a slightly different audience: cats!

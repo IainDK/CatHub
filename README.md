@@ -22,3 +22,7 @@ To use this project locally, please follow the below steps:
 **Note: this assumes you already have git installed.**
 
 ## Functionality & Features
+
+Users can sign-up and sign-in:
+
+![sign-up](http://imgur.com/a/o9Hzn)

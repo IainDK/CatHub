@@ -35,14 +35,14 @@ Users can comment on posts once they've been created; comments can also be react
 
 ![commenting-post](http://i.imgur.com/BoKeg4f.png "Commenting on a Post")
 
-All users have a profile page which can be viewed by themselves and other users. A user's profile page displays the following: name, profile photo, friends they have added, and all their unique posts. It will also contain an option to edit their profile.
+All users have a profile page which can be viewed by themselves and other users. A user's profile page displays the following: name, profile photo, friends they have added, and all their unique posts. It also contains an option to edit their profile.
 
 ![profile-page](http://i.imgur.com/zjZkd32.png "Profile Page")
 
 When editing their profile, users can update their email address, password and profile photo. They also have the option to delete their account.
 
-![edit-profile](http://localhost:3000/users/edit "Edit Profile")
+![edit-profile](http://i.imgur.com/iL9Z3uY.png "Edit Profile")
 
-Finally, a user can sign out, at which point the session is destroyed. If the user then tries to make a post, he will be prompted to sign-in or sign-up.
+Finally, a user can sign out, at which point the session is destroyed. If the user then tries to make a post, they will be prompted to sign-in or sign-up.
 
 ![sign-out](http://i.imgur.com/4Y1XTVP.png "Sign Out")
